@@ -7,6 +7,7 @@ int main (void) {
     printf("write a number: ");
     scanf("%d", &x);
     printf("You entered: %d as your number.\n", x);
+    printf("Testing brnaches\n");
 
     return 0;
 }
